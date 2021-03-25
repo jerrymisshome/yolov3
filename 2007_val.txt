@@ -1,0 +1,1 @@
+F:\tf_yolov3_new/VOCdevkit/VOC2007/JPEGImages/010035.jpg 203,183,411,328,0 191,75,302,177,1
